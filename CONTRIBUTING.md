@@ -25,7 +25,7 @@ We use GitHub issues to track public bugs. We will keep a close eye on this and 
 
 ### Coding Style
 
-Please follow the [Coding Style](https://github.com/ethereum-boilerplate/ethereum-boilerplate/blob/main/CODING_STYLE.md).
+Please follow the [Coding Style](./CODING_STYLE.md).
 
 ## License
 
